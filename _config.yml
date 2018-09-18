@@ -1,4 +1,4 @@
-title:            Blog Title
+title:            Heo's blog
 description:      Describe your website here.
 
 # put your disqus here
@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
-url: http://aronbordin.com/neo-hpstr-jekyll-theme
+url: https://geunsuheo.github.io/
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -20,17 +20,13 @@ url: http://aronbordin.com/neo-hpstr-jekyll-theme
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Fork'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-  - title: 'Install'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
-  - title: 'Tags'
-    url: '/tags'
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
-  - title: 'Favorites'
-    url: '#'
+  - title: 'about me'
+    url: '/about'
+  - title: 'Tags'
+    url: '/tags'
     submenu:
       - title: 'Code Highlighter'
         url: '/intro/code-highlighting-post/'
