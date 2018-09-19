@@ -18,6 +18,7 @@ share: true
 ## 특기
 - Python : python 독학으로 텐서플로우까지 공부
   - 전문가를 위한 파이썬 (fluent python) 공부 중  
+  - 현재 동아리에서 1년째 파이썬을 강의하고 있음
 
 - 영상처리 : Tensorflow를 통한 영상처리  
   - GAN을 사용한 reverse tone mapping
