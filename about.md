@@ -20,7 +20,8 @@ share: true
   - 전문가를 위한 파이썬 (fluent python) 공부 중  
 
 - 영상처리 : Tensorflow를 통한 영상처리  
-  - reverse tone mapping using GAN  
+  - GAN을 사용한 reverse tone mapping
+  - Super-Resolution을 위한 CNN 모델링
 
 - 행사 진행 : 행사 운영 및 진행 보조  
   - 큐브 행사 진행, 엑스포 부스 운영  
