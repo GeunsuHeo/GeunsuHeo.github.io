@@ -19,7 +19,7 @@ url: https://geunsuheo.github.io/
 # See the example
 menu:
   - title: 'Home'
-    url: '/'
+    url: ''
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
