@@ -1,7 +1,7 @@
 ---
 layout: dark-post
 title: 파이썬 강의 과제 - 문자열
-date: 2018-09-19
+date: 2018-09-20
 author: Geunsu Heo
 categories: [python lecture]
 tags: [python,lecture]
