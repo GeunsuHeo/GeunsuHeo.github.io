@@ -38,12 +38,12 @@ owner:
   name:           GeunsuHeo
   site:           https://geunsuheo.github.io
   avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "가톨릭대학교 정보통신전자공학부 재학 중"
   email:          gjrmstn1440@naver.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter:  # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
-  github: 
+  github: https://github.com/GeunsuHeo
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
@@ -52,11 +52,9 @@ twitter:
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
   - title: "github"
-    url: "https://github.com/aron-bordin"
-  - title: "linkedin"
-    url: "https://br.linkedin.com/in/aronbordin"
-  - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+    url: "https://github.com/GeunsuHeo"
+  - title: "facebook"
+    url: "https://www.facebook.com/geunsu.heo.5"
 
 # Background image to be tiled on all pages
 background:
