@@ -48,6 +48,7 @@ sitemap:
 - 그리고 시스템에 의해 다시 호출되어 onCreate() -> onStart() -> onResume() 까지 호출된다.
 	- 이때 별 문제가 없어보이지만 사용자 이벤트나 네트워킹으로 데이터가 발생 시 모두 유실된다.
 
+---
 ### 저장하는 법
 액티비티가 종료될 때 유실되면 안 되는 데이터를 저장했다가 다시 액티비티가 시작될 때 복원하여 사용하기 위한 **생명주기 메서드**가 있다.
 
@@ -56,7 +57,7 @@ onResume()까지 실행된 액티비티가 화면 회전 시
 - 다시 시작하면서 onCreate() -> onStart() -> **onRestoreInstanceState()**-> onResume()가 실행된다.
 전에 언급한 내용과 달리 추가된 메서드들이 상태 저장, 복원을 위한 생명 주기 메서드이다.
 
-- 데이터 저장 onSaveInstanceState(Bundle)
+### 데이터 저장 onSaveInstanceState(Bundle)
 ```java
 @Override  
 public void onSaveInstanceState(Bundle outState){  
@@ -65,22 +66,22 @@ outState.putString("data1","hello");
 outState.putInt("data2",100);  
 }  
 ```
+- onPause()후 자동 호출되며 데이터를 저장한다.
+- 저장 시 Bundle 객체를 이용하여 (key-value)쌍으로 묶어서 저장
 
-	- onPause()후 자동 호출되며 데이터를 저장한다.
-	- 저장 시 Bundle 객체를 이용하여 (key-value)쌍으로 묶어서 저장
-- 데이터 복원 onRestoreInstanceState(Bundle)
+---
+### 데이터 복원 onRestoreInstanceState(Bundle)
 ```java
 @Override
 public void onRestoreInstanceState(Bundle State){
-super.onRestoreInstanceState(State); 
-String data1 = State.getString("data1"); 
-int data2 = State.getInt("data2");  
+super.onRestoreInstanceState(State);
+String data1 = State.getString("data1");
+int data2 = State.getInt("data2");
 }
 ```
-
-	- 액티비티가 다시 시작되는 시점에서 호출
-	- 저장된 데이터를 Bundle에 담아 매개변수로 전달된다.
-	- Bundle에서 데이터를 가져올때 get"자료형"()을 사용하며 key값을 통해 value를 가져올 수 있다.
+- 액티비티가 다시 시작되는 시점에서 호출
+- 저장된 데이터를 Bundle에 담아 매개변수로 전달된다.
+- Bundle에서 데이터를 가져올때 get"자료형"()을 사용하며 key값을 통해 value를 가져올 수 있다.
 
 - API 21 버전부터 매개변수가 2개로 바뀌었다.
 	- 매개변수 : Bundle, PersistableBundle
@@ -91,4 +92,3 @@ int data2 = State.getInt("data2");
 ---
 ### 참고도서
 - 깡샘의 안드로이드 프로그래밍
-
