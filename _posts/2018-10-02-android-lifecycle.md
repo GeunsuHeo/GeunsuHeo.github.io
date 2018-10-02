@@ -65,6 +65,7 @@ outState.putString("data1","hello");
 outState.putInt("data2",100);  
 }  
 ```
+
 	- onPause()후 자동 호출되며 데이터를 저장한다.
 	- 저장 시 Bundle 객체를 이용하여 (key-value)쌍으로 묶어서 저장
 - 데이터 복원 onRestoreInstanceState(Bundle)
@@ -76,6 +77,7 @@ String data1 = State.getString("data1");
 int data2 = State.getInt("data2");  
 }
 ```
+
 	- 액티비티가 다시 시작되는 시점에서 호출
 	- 저장된 데이터를 Bundle에 담아 매개변수로 전달된다.
 	- Bundle에서 데이터를 가져올때 get"자료형"()을 사용하며 key값을 통해 value를 가져올 수 있다.
