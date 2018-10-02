@@ -58,22 +58,22 @@ onResume()까지 실행된 액티비티가 화면 회전 시
 
 - 데이터 저장 onSaveInstanceState(Bundle)
 	```java
-	@Override
-	public void onSaveInstanceState(Bundle outState){
-	super.onSaveInstanceState(outState);
-	outState.putString("data1","hello");
-	outState.putInt("data2",100);
-	}
+	@Override  
+	public void onSaveInstanceState(Bundle outState){  
+	super.onSaveInstanceState(outState);  
+	outState.putString("data1","hello");  
+	outState.putInt("data2",100);  
+	}  
 	```
 	- onPause()후 자동 호출되며 데이터를 저장한다.
 	- 저장 시 Bundle 객체를 이용하여 (key-value)쌍으로 묶어서 저장
 - 데이터 복원 onRestoreInstanceState(Bundle)
 	```java
-	@Override
-	public void onRestoreInstanceState(Bundle State){
-	super.onRestoreInstanceState(State);
-	String data1 = State.getString("data1");
-	int data2 = State.getInt("data2");
+	@Override  
+	public void onRestoreInstanceState(Bundle State){  
+	super.onRestoreInstanceState(State);  
+	String data1 = State.getString("data1");  
+	int data2 = State.getInt("data2");  
 	}
 	```
 	- 액티비티가 다시 시작되는 시점에서 호출
