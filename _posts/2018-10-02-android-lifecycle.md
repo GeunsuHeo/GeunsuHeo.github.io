@@ -85,6 +85,7 @@ onResume()까지 실행된 액티비티가 화면 회전 시
 	- 차이점
 		- onSaveInstanceState() : 액티비티가 종료되어야만 할 때만 호출
 		- onRestoreInstaceState() : Bundle에 저장된 데이터가 없을 시 호출되지 않음.
+
 ---
 ### 참고도서
 - 깡샘의 안드로이드 프로그래밍
