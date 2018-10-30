@@ -87,5 +87,5 @@ print(a) # {1, 3}
 
 ---
 ### 참고자료
-`[점프 투 파이썬](https://wikidocs.net/1015)`  
+[점프 투 파이썬](https://wikidocs.net/1015)  
 `모두를 위한 파이썬 PY4E`
