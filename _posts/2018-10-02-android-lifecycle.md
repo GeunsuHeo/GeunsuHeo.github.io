@@ -1,6 +1,6 @@
 ---
 layout: dark-post
-title: 안드로이드 공부 - 액티비티 생명주기(Life Cycle)
+title: 안드로이드 - 액티비티 생명주기(Life Cycle)
 date: 2018-10-02
 author: Geunsu Heo
 categories: [android]
