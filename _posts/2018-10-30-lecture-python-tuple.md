@@ -53,7 +53,6 @@ tu = ()
 print(dir(tu))
 ```
 ```
-내장 함수를
 ['append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort']
 ['count', 'index']
 ```
