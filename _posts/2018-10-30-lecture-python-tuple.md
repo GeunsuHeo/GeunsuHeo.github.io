@@ -1,7 +1,7 @@
 ---
 layout: dark-post
 title: 파이썬 강의 - 튜플
-date: 2018-10-24
+date: 2018-10-30
 author: Geunsu Heo
 categories: [python lecture]
 tags: [python,lecture]
