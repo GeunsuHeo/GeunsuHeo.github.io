@@ -108,5 +108,5 @@ print(('apple','banana') > ('abs','star')) #True
 
 ---
 ### 참고자료
-`[점프 투 파이썬](https://wikidocs.net/15)`
+[점프 투 파이썬](https://wikidocs.net/15)
 `모두를 위한 파이썬 PY4E`
