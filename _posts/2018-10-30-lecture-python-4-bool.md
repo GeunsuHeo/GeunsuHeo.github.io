@@ -1,6 +1,6 @@
 ---
 layout: dark-post
-title: 파이썬 강의 - 집합
+title: 파이썬 강의 - Bool
 date: 2018-10-30
 author: Geunsu Heo
 categories: [python lecture]
