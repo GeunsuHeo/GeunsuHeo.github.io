@@ -101,5 +101,5 @@ print('id' in dic) # False
 
 ---
 ### 참고자료
-`[점프 투 파이썬](https://wikidocs.net/16)`  
+[점프 투 파이썬](https://wikidocs.net/16)
 `모두를 위한 파이썬 PY4E`
