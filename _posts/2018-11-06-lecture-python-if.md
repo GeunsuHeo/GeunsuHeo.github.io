@@ -99,13 +99,13 @@ print(False and False) # False
   - 둘 다 거짓일 때만 거짓이고 나머지는 참이다.  
 
 ```python
-print(True and True) # True
-print(False and True) # True
-print(True and False) # True
-print(False and False) # False
+print(True or True) # True
+print(False or True) # True
+print(True or False) # True
+print(False or False) # False
 ```
 
-- or
+- not
   - True일 경우 False, False일 경우 True이다.
 
 ```python
