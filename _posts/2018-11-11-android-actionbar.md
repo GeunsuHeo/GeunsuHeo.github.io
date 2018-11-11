@@ -16,7 +16,7 @@ sitemap:
 액티비티 화면 전체는 Window라 부르며, Window는 크게 Content 영역과 ActionBar영역으로 나뉜다.
 - **Content영역:** setCountView()로 출력하는 내용이 출력이 되어 나타나는 곳
 - **ActionBar영역:** Window 상단에 출력되며 App Icon, View Control, Action Button, Overflow Meun 등이 나오도록 구성 가능.
-<center><img src="https://www.davidyardy.com/blogmedia/images/windows-live-writer-xamarin_a3b5-image_4.png" width="50%" height="50%"></center>
+<center><img src="https://user-images.githubusercontent.com/11483057/48311730-ae57dd00-e5e7-11e8-9200-ee1835df14af.png" width="50%" height="50%"></center>
 
 ### ActionBar구성
 - **App Icon** : 앱의 아이콘이 나타나는 부분
