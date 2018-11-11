@@ -37,9 +37,9 @@ ActionBar를 출력하고 싶지 않다면 res/values/styles.xml 파일에 적�
     <item name="windowActionBar">false</item>
 </style>
 ```
-또는 Java 코드에서 ActionBar를 객체로 가져와 show(),hide()를 이용해 사라지거나 나타나게 할 수 있다.
+또는 java 코드에서 ActionBar를 객체로 가져와 show(),hide()를 이용해 사라지거나 나타나게 할 수 있다.
 
-```Java
+```java
 ActionBar actionBar = getSupportActionBar();
 ```
 
@@ -74,7 +74,7 @@ ActionBar가 content영역 위에 떠있듯 표현할 수 있다. 이는 테마�
 ---
 ### 표시 옵션
 ActionBar에서는 App Icon이나 타이틀 문자열 등 여러 항목이 표시되는데 이 요소들을 어떻게 구상을 할 것인지에 대한 함수를 제공한다.
-- **AndroidManifest.xml**에서 activity 태그의 label 속성을 설정  
+- **AndroidManifest.xml**에서 activity 태그의 label 속성을 설정
 
 ```xml
 <activity android:name=".MainActiviy" android:label="상세 보기">
@@ -82,7 +82,7 @@ ActionBar에서는 App Icon이나 타이틀 문자열 등 여러 항목이 표�
 위와 같이 지정하면 ActionBar의 타이틀 문자열은 label속성으로 지정한 문자열이 된다. 또한 자바코드의 setter함수를 사용하여 구성요소가 화면에 나와야 하는지를 제어한다.
 
 #### 설정
-```Java
+```java
 actionBar = getSupportActionBar();
 actionBar.setDisplayShowHomeEnabled(true); //홈 아이콘 표시 설정
 actionBar.setDisplayHomeAsUpEnabled(true); //아이콘을 Up 이미지로 표시 설정
@@ -97,7 +97,7 @@ actionBar.setDisplayUseLogoEnabled(true); //로고 표시 설정
 - **setSubtitle(int resId)** or **setSubtitle(CharSequence subtitle)** : 서브타이틀 지정
 - **setCustomView(int resId)** or **setCustomView(View view)** : 커스텀 뷰 지정
 
-```Java
+```java
 actionBar.setIcon(R.drawable.icon); //로고 아이콘 지정
 actionBar.setTitle("새로운 타이틀"); //타이틀 지정
 actionBar.setSubtitle("새로운 서브타이틀"); //서브타이틀 지정
@@ -106,7 +106,7 @@ actionBar.setCustomView(customView); //커스텀 뷰 지정
 
 #### 이벤트 처리
 아이콘을 클릭했을 때 이벤트를 처리하려면 onOptionsItemSelected()함수 사용.
-```Java
+```java
 @Override
 public boolean onOptionsItemSelected(MenuItem item) {
     if(item.getItemId()==android.R.id.home/*지정한 id*/){
