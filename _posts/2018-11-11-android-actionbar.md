@@ -38,9 +38,11 @@ ActionBar를 출력하고 싶지 않다면 res/values/styles.xml 파일에 적�
 </style>
 ```
 또는 Java 코드에서 ActionBar를 객체로 가져와 show(),hide()를 이용해 사라지거나 나타나게 할 수 있다.
+
 ```Java
 ActionBar actionBar = getSupportActionBar();
 ```
+
 ```java
 @Override
 public void onClick(View v){
