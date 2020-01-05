@@ -26,6 +26,6 @@ share: true
 - None
 
 ## Domestic
-- **Keunsoo Heo**, Yunju Kim, Changwoo Lee, "Efficient Deep Neural Network for Restoring Image Intensity", Vol.8 No.02 (2019-04) IEIE SPC, Poster P.T. on IPIU 2019, 2019 [paper](http://www.auric.or.kr/User/Rdoc/DocRdoc.aspx?returnVal=RD_R&dn=384124#.XhHgkuH_yUk)
+- **Keunsoo Heo**, Yunju Kim, Changwoo Lee, "Efficient Deep Neural Network for Restoring Image Intensity", Vol.8 No.02 (2019-04) IEIE SPC, Poster P.T. on IPIU conference 2019, 2019 [paper](http://www.auric.or.kr/User/Rdoc/DocRdoc.aspx?returnVal=RD_R&dn=384124#.XhHgkuH_yUk)
 
 ---
