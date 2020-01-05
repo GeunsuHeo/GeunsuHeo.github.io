@@ -23,7 +23,7 @@ menu:
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
-  - title: 'about me'
+  - title: 'About me'
     url: '/about'
   - title: 'Tags'
     url: '/tags'
