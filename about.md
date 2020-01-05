@@ -26,4 +26,5 @@ share: true
 
 ## Domestic
 - **Keunsoo Heo**, Yunju Kim, Changwoo Lee, "Efficient Deep Neural Network for Restoring Image Intensity" [paper](http://www.auric.or.kr/User/Rdoc/DocRdoc.aspx?returnVal=RD_R&dn=384124#.XhHgkuH_yUk)
+
 ---
