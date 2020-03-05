@@ -17,7 +17,7 @@ share: true
 | Date | Record |
 |:---|:---|
 | 2020 ~ | M.S., Department of Artificial Intelligence, Korea University |
-| 2014 ~ 2020 | B.S. (won 1st prize in grade), Department of Information, Communication and Electronic Engineering, The Catholic University of Korea |
+| 2014 ~ 2020 | B.S., Department of Information, Communication and Electronic Engineering, The Catholic University of Korea |
 | 2017 ~ 2019 | Undergraduate researcher, Signal Processing Lab, The Catholic University of Korea |
 | 2017 ~ 2018 | Manager of IT Club, The Catholic University of Korea |
 
@@ -30,3 +30,4 @@ share: true
 - **Keunsoo Heo**, Yunju Kim, Changwoo Lee, "Efficient Deep Neural Network for Restoring Image Intensity", Vol.8 No.02 (2019-04) IEIE SPC, Poster P.T. on IPIU conference 2019, 2019 [paper](http://www.auric.or.kr/User/Rdoc/DocRdoc.aspx?returnVal=RD_R&dn=384124#.XhHgkuH_yUk)
 
 ---
+# Awards and Honors
