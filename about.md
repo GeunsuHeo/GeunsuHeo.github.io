@@ -3,12 +3,13 @@ layout: page
 title: About me
 share: true
 ---
+
 # About me
 ---
 ## Keunsoo Heo (허근수)
-- Contact me : gjrmstn1440@naver.com
+- Contact me via email : gjrmstn1440@korea.ac.kr
 
-<img src="https://user-images.githubusercontent.com/11483057/45756309-82f5e900-bc5b-11e8-910a-870146da1bc5.png" width="300" height="300">
+<center><img src="https://user-images.githubusercontent.com/11483057/45756309-82f5e900-bc5b-11e8-910a-870146da1bc5.png" width="300" height="300"></center>
 
 ---
 # Personal history
@@ -16,7 +17,7 @@ share: true
 | Date | Record |
 |:---|:---|
 | 2020 ~ | M.S., Department of Artificial Intelligence, Korea University |
-| 2014 ~ 2020 | B.S., Department of Information, Communication and Electronic Engineering, The Catholic University of Korea |
+| 2014 ~ 2020 | B.S. (won 1st prize in grade), Department of Information, Communication and Electronic Engineering, The Catholic University of Korea |
 | 2017 ~ 2019 | Undergraduate researcher, Signal Processing Lab, The Catholic University of Korea |
 | 2017 ~ 2018 | Manager of IT Club, The Catholic University of Korea |
 
