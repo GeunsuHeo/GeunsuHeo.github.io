@@ -19,7 +19,7 @@ share: true
 | 2020 ~ | Ph.D. candidate, Department of Artificial Intelligence, Korea University |
 | 2014 ~ 2020 | B.S., Department of Information, Communication and Electronic Engineering, The Catholic University of Korea |
 | 2017 ~ 2019 | Undergraduate researcher, Signal Processing Lab, The Catholic University of Korea |
-| 2017 ~ 2018 | Manager of IT Club, The Catholic University of Korea |
+| 2017 ~ 2018 | Manager of IT Club, COMA, The Catholic University of Korea |
 
 ---
 # Publication
