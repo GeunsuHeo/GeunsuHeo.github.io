@@ -12,22 +12,28 @@ share: true
 <center><img src="https://user-images.githubusercontent.com/11483057/45756309-82f5e900-bc5b-11e8-910a-870146da1bc5.png" width="300" height="300"></center>
 
 ---
-# Personal history
+# Education
 
 | Date | Record |
 |:---|:---|
-| 2020 ~ | Ph.D. candidate, Department of Artificial Intelligence, Korea University |
-| 2014 ~ 2020 | B.S., Department of Information, Communication and Electronic Engineering, The Catholic University of Korea |
-| 2017 ~ 2019 | Undergraduate researcher, Signal Processing Lab, The Catholic University of Korea |
-| 2017 ~ 2018 | Manager of IT Club, COMA, The Catholic University of Korea |
+| 2020 ~ | Ph.D. candidate, [Department of Artificial Intelligence](http://xai.korea.ac.kr/), [Korea University](http://korea.ac.kr/) |
+| 2014 ~ 2020 | B.S., [Department of Information, Communication and Electronic Engineering](https://ice.catholic.ac.kr/ice/index.html), [The Catholic University of Korea](https://www.catholic.ac.kr/) |
+
+---
+# Work history
+
+| Date | Record |
+|:---|:---|
+| 2020 ~ | Ph.D. candidate, [Medical Artificial Intelligence Lab.(MAILab)](http://mailab.korea.ac.kr/), [Korea University](http://korea.ac.kr/) |
+| 2017 ~ 2020 | Undergraduate researcher, Signal Processing Lab., [The Catholic University of Korea](https://www.catholic.ac.kr/) |
 
 ---
 # Publication
-## International
-- None
 
-## Domestic
 - **Keunsoo Heo**, Yunju Kim, Changwoo Lee, "Efficient Deep Neural Network for Restoring Image Intensity", Vol.8 No.02 (2019-04) IEIE SPC,  2019 [paper](http://www.auric.or.kr/User/Rdoc/DocRdoc.aspx?returnVal=RD_R&dn=384124#.XhHgkuH_yUk)
 
 ---
 # Awards and Honors
+
+- First-class honors (cumulative GAP : 4.33/4.5), [The Catholic University of Korea](https://www.catholic.ac.kr/), 2020
+
