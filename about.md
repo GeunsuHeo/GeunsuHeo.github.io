@@ -25,7 +25,7 @@ share: true
 | Date | Record |
 |:---|:---|
 | 2020 ~ | Ph.D. candidate, [Medical Artificial Intelligence Lab.(MAILab)](http://mailab.korea.ac.kr/), [Korea University](http://korea.ac.kr/) |
-| 2017 ~ 2020 | Undergraduate researcher, Signal Processing Lab., [The Catholic University of Korea](https://www.catholic.ac.kr/) |
+| 2017 ~ 2020 | Undergraduate researcher, Image Signal Processing Lab., [The Catholic University of Korea](https://www.catholic.ac.kr/) |
 
 ---
 # Publication
