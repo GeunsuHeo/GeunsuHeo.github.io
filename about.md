@@ -9,7 +9,7 @@ share: true
 ## Keunsoo Heo (허근수)
 - Contact me via email : gjrmstn1440@korea.ac.kr
 
-<center><img src="https://user-images.githubusercontent.com/11483057/45756309-82f5e900-bc5b-11e8-910a-870146da1bc5.png" width="300" height="300"></center>
+<center><img src="https://user-images.githubusercontent.com/11483057/124079509-35ea0700-da84-11eb-941a-03b63d57f11a.jpg" width="300" height="200"></center>
 
 ---
 # Education
